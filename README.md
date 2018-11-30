@@ -1,6 +1,6 @@
 # awesome_django_webapp
-awesome webapp learning from Michael Liao  
-updated in Django
+awesome webapp learned from Michael Liao  
+upgraded in Django
 
 refer to:  
 https://github.com/michaelliao/awesome-python3-webapp
